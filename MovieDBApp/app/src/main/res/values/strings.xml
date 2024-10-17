@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDBApp</string>
+    <string name="MainTitle">Top Rated Films</string>
+    <string name="Detail">Film Details</string>
+</resources>
