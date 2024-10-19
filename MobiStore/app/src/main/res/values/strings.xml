@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobiStore</string>
+    <string name="Details">Detalle del telefono</string>
+    <string name="credit">Medio de pago:Acepta Credito</string>
+    <string name="no_credit">Medio de pago:Solo efectivo</string>
+    <string name="mail">info@novaera.cl</string>
+    <string name="part1">Hola Me gustaría obtener más información del móvil</string>
+</resources>
